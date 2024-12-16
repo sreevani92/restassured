@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>leaf.qa</groupId>
+  <artifactId>web</artifactId>
+  <version>1</version>
+  <packaging>jar</packaging>
+	<properties>
+		<aspectj.version>1.8.3</aspectj.version>
+		<allure.version>1.4.6</allure.version>
+		<compiler.version>1.7</compiler.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<dependencies>
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.10.0</version>
+</dependency>
+				</dependencies>
+		
+	
+</project>

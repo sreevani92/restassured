@@ -1,0 +1,10 @@
+import org.openqa.selenium.support.decorators.WebDriverDecorator;
+
+public class a1 {
+
+	public static void main(String[] args) {
+	System.setProperty("webdriver.chrome.driver","./Automation.chromedriver.exe");
+	chromedriver d = new chromedriver();
+	}
+
+}
